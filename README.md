@@ -23,4 +23,4 @@ node app.js
 ```
 
 Open your browser and browse the url 'http://localhost:8080/'.
-You can find the complete documentation link [here](https://github.com/sugarlabs/musicblocks/graphs/contributors)
+You can find the complete documentation link [here]
