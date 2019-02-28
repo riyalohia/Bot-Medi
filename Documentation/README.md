@@ -1,4 +1,4 @@
-# Innovaccer Medicare
+# Medicare System
 
 This project has two main folders namely `client`  and `server`.
 Client contains the frontend part and Server contains the backend part.
