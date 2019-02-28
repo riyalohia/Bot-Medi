@@ -1,4 +1,4 @@
-# Innovaccer Medicare
+# Medicare-System
 
 This project aims to list down the diseases and corresponding treatments for a given medical symptom. User can also get a path to nearby hospital for a particular disease.
 
@@ -23,4 +23,4 @@ node app.js
 ```
 
 Open your browser and browse the url 'http://localhost:8080/'.
-You can find the complete documentation link [here](https://github.com/riyalohia/Innovaccer-Medicare/blob/master/Documentation/README.md)
+You can find the complete documentation link [here](https://github.com/riyalohia/Medicare-System/blob/master/Documentation/README.md)
